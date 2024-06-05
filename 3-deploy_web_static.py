@@ -64,4 +64,3 @@ def deploy():
     if created_path is None:
         return False
     return do_deploy(created_path)
-
